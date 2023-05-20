@@ -127,3 +127,22 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Customization
+.idea
+.DS_Store
+.DS_store
+**/.DS_Store
+**/.DS_store
+data/*
+!data/README.md
+
+ckpts/*
+!ckpts/README.md
+
+logs/*
+!logs/README.md
+
+wandb
+lightning_logs

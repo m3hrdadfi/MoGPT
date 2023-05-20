@@ -1,0 +1,15 @@
+deepspeed==0.7.*
+huggingface-hub==0.11.*
+nltk==3.8.*
+numpy==1.23.*
+pandas==1.5.*
+protobuf==3.20.*
+psutil==5.9.*
+pytorch-lightning==1.8.*
+tokenizers==0.13.*
+torch==1.13.*
+torchaudio==0.13.*
+torchmetrics==0.11.*
+torchvision==0.14.*
+transformers==4.25.*
+wandb
