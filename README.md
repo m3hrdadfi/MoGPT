@@ -43,7 +43,7 @@ We welcome contributions. Please submit a Pull Request and we will review your c
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 Feel free to create an issue for any questions or problems. We will try our best to help.
